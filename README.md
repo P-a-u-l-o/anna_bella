@@ -1,1 +1,2 @@
-# anna_bella
+# Anna_Bella
+Projeto realizado com fins didáticos.
